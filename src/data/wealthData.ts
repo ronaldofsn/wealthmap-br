@@ -31,5 +31,6 @@ export const wealthData: StateWealth[] = [
   { state: "AC", wealth: 5, population: 894470, gdp: 7654 },
   { state: "AP", wealth: 5, population: 861773, gdp: 6543 },
   { state: "RR", wealth: 5, population: 631181, gdp: 5432 },
-  { state: "AM", wealth: 5, population: 4207714, gdp: 4321 }
+  { state: "AM", wealth: 5, population: 4207714, gdp: 4321 },
+  { state: "MS", wealth: 15, population: 2778986, gdp: 12345 }
 ]; 
