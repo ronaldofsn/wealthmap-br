@@ -1,0 +1,302 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Acre",
+        "sigla": "AC"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-73.5, -11.0], [-68.5, -11.0], [-68.5, -7.0], [-73.5, -7.0], [-73.5, -11.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alagoas",
+        "sigla": "AL"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-38.0, -10.5], [-35.5, -10.5], [-35.5, -8.5], [-38.0, -8.5], [-38.0, -10.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amapá",
+        "sigla": "AP"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-54.0, 2.0], [-50.0, 2.0], [-50.0, 4.0], [-54.0, 4.0], [-54.0, 2.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amazonas",
+        "sigla": "AM"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-73.0, -9.0], [-65.0, -9.0], [-65.0, 2.0], [-73.0, 2.0], [-73.0, -9.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahia",
+        "sigla": "BA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-46.5, -18.0], [-39.5, -18.0], [-39.5, -8.5], [-46.5, -8.5], [-46.5, -18.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ceará",
+        "sigla": "CE"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-41.5, -7.5], [-37.5, -7.5], [-37.5, -2.5], [-41.5, -2.5], [-41.5, -7.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Distrito Federal",
+        "sigla": "DF"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-48.1, -15.9], [-47.7, -15.9], [-47.7, -15.7], [-48.1, -15.7], [-48.1, -15.9]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Espírito Santo",
+        "sigla": "ES"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-41.5, -21.0], [-39.5, -21.0], [-39.5, -17.5], [-41.5, -17.5], [-41.5, -21.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goiás",
+        "sigla": "GO"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-53.0, -19.0], [-46.5, -19.0], [-46.5, -13.0], [-53.0, -13.0], [-53.0, -19.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maranhão",
+        "sigla": "MA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-48.0, -9.0], [-42.0, -9.0], [-42.0, -1.0], [-48.0, -1.0], [-48.0, -9.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mato Grosso",
+        "sigla": "MT"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-61.0, -16.0], [-50.0, -16.0], [-50.0, -7.0], [-61.0, -7.0], [-61.0, -16.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mato Grosso do Sul",
+        "sigla": "MS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-58.0, -24.0], [-51.0, -24.0], [-51.0, -17.0], [-58.0, -17.0], [-58.0, -24.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minas Gerais",
+        "sigla": "MG"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-53.0, -23.0], [-41.5, -23.0], [-41.5, -14.0], [-53.0, -14.0], [-53.0, -23.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pará",
+        "sigla": "PA"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-58.0, -2.0], [-46.0, -2.0], [-46.0, 4.0], [-58.0, 4.0], [-58.0, -2.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paraíba",
+        "sigla": "PB"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-38.5, -8.5], [-34.5, -8.5], [-34.5, -6.0], [-38.5, -6.0], [-38.5, -8.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paraná",
+        "sigla": "PR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-54.0, -26.0], [-48.5, -26.0], [-48.5, -22.0], [-54.0, -22.0], [-54.0, -26.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pernambuco",
+        "sigla": "PE"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-41.0, -9.5], [-35.0, -9.5], [-35.0, -7.0], [-41.0, -7.0], [-41.0, -9.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Piauí",
+        "sigla": "PI"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-45.5, -11.0], [-40.5, -11.0], [-40.5, -4.0], [-45.5, -4.0], [-45.5, -11.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio de Janeiro",
+        "sigla": "RJ"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-45.0, -23.5], [-41.0, -23.5], [-41.0, -20.0], [-45.0, -20.0], [-45.0, -23.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Grande do Norte",
+        "sigla": "RN"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-38.0, -6.5], [-35.0, -6.5], [-35.0, -4.0], [-38.0, -4.0], [-38.0, -6.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rio Grande do Sul",
+        "sigla": "RS"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-57.5, -33.5], [-49.5, -33.5], [-49.5, -27.0], [-57.5, -27.0], [-57.5, -33.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rondônia",
+        "sigla": "RO"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-66.0, -14.0], [-60.0, -14.0], [-60.0, -8.0], [-66.0, -8.0], [-66.0, -14.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roraima",
+        "sigla": "RR"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-64.0, 5.0], [-59.0, 5.0], [-59.0, 2.0], [-64.0, 2.0], [-64.0, 5.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Santa Catarina",
+        "sigla": "SC"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-54.0, -29.0], [-48.5, -29.0], [-48.5, -25.0], [-54.0, -25.0], [-54.0, -29.0]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "São Paulo",
+        "sigla": "SP"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-53.5, -25.5], [-44.5, -25.5], [-44.5, -19.0], [-53.5, -19.0], [-53.5, -25.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sergipe",
+        "sigla": "SE"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-38.0, -11.5], [-36.0, -11.5], [-36.0, -9.0], [-38.0, -9.0], [-38.0, -11.5]]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tocantins",
+        "sigla": "TO"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [[[[-50.0, -13.0], [-45.0, -13.0], [-45.0, -5.0], [-50.0, -5.0], [-50.0, -13.0]]]]
+      }
+    }
+  ]
+} 
