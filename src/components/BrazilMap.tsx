@@ -70,7 +70,11 @@ const BrazilMap: React.FC<BrazilMapProps> = ({ width = '100%', height = '600px' 
       color: 'white',
       fillOpacity: 0.85,
       smoothFactor: 3,
-      className: 'state-feature'
+      className: 'state-feature',
+      dashArray: '',
+      lineCap: 'round' as const,
+      lineJoin: 'round' as const,
+      vectorEffect: 'non-scaling-stroke' as const
     };
   };
 
@@ -81,7 +85,11 @@ const BrazilMap: React.FC<BrazilMapProps> = ({ width = '100%', height = '600px' 
       opacity: 1,
       color: 'rgba(255, 255, 255, 0.9)',
       fillOpacity: 0.95,
-      className: 'state-feature highlighted'
+      className: 'state-feature highlighted',
+      dashArray: '',
+      lineCap: 'round' as const,
+      lineJoin: 'round' as const,
+      vectorEffect: 'non-scaling-stroke' as const
     });
     layer.bringToFront();
   };
@@ -125,6 +133,10 @@ const BrazilMap: React.FC<BrazilMapProps> = ({ width = '100%', height = '600px' 
         zoom={isMobile ? 3 : 4}
         style={{ height: '100%', width: '100%' }}
         zoomControl={false}
+        maxZoom={8}
+        minZoom={3}
+        zoomSnap={0.5}
+        zoomDelta={0.5}
       >
         <ZoomControl position="bottomright" />
         <TileLayer
